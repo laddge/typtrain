@@ -1,0 +1,2 @@
+# typtrain
+practice typing
